@@ -1,0 +1,19 @@
+#box{
+    position: absolute;
+    align-items: center;
+    background-color: bisque;
+    left: 500px;
+    top: 80px;
+    border-radius: 20px;
+    padding: 100px 120px;
+}
+
+#box1{
+    position: absolute;
+    align-items: center;
+    background-color: bisque;
+    left: 360px;
+    top: 10px;
+    border-radius: 20px;
+    padding: 50px 140px;
+}
